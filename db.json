@@ -1,0 +1,21 @@
+{
+    "Productos": [
+
+        {
+            "id": 1,
+            "Nombre": "Alfeñiques",
+            "Precio": 1500
+        },
+        {
+            "id": 2,
+            "Nombre": "Claritas",
+            "Precio": 2000
+        },
+        {
+            "id": 3,
+            "Nombre": "Tableta DL",
+            "Precio": 1500
+        }
+    
+    ]
+}
